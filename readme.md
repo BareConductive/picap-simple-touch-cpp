@@ -1,4 +1,4 @@
-[![Bare Conductive](https://www.bareconductive.com/wp-content/uploads/2017/03/Bare-Conductive-LOGO_master_AW.png)](http://www.bareconductive.com/)
+[![Bare Conductive](http://bareconductive.com/assets/images/LOGO_256x106.png)](http://www.bareconductive.com/)
 
 # Bare Conductive Pi Cap Simple Touch Utility
 
